@@ -35,7 +35,7 @@
   
 점수 증가|
 -|
-<img width="169" height="76" alt="image" src="https://github.com/user-attachments/assets/5b766e9a-42f8-4b42-b45f-8370fd6d3ada" />
+<img width="169" height="76" alt="image" src="https://github.com/user-attachments/assets/5b766e9a-42f8-4b42-b45f-8370fd6d3ada" />|
 
 
 
@@ -43,6 +43,7 @@
 - **다양한 젤리** : 특정 점수에 도달할 때마다 새로운 종류의 젤리들이 추가로 등장합니다.
 
 빨간 곰 젤리|노란 곰 젤리|노란 토끼 젤리|
+-|-|-|
 <img width="88" height="129" alt="image" src="https://github.com/user-attachments/assets/30765f00-bfc4-41b7-b545-e1a9da2ffe81" />|<img width="93" height="138" alt="image" src="https://github.com/user-attachments/assets/8584a67f-c6b5-4287-b9b2-5ce672449c10" />|<img width="85" height="118" alt="image" src="https://github.com/user-attachments/assets/2a9b640d-f6a7-4fab-bf4e-621034fa1fa3" />|
 
 
